@@ -1,0 +1,116 @@
+name: dockercompose2629319331148237636
+services:
+  apigateway:
+    build:
+      context: /Users/akif/Desktop/Microservices/Microservices
+      dockerfile: APIGateway/Dockerfile
+    container_name: c_api_gateway
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: akiftiryaki/apigateway
+    networks:
+      int_net: null
+      micro_net: null
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp
+    - mode: ingress
+      target: 443
+      protocol: tcp
+    - mode: ingress
+      target: 6000
+      published: "6000"
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /Users/akif/.aspnet/https
+      target: /root/.aspnet/https
+      read_only: true
+      bind:
+        create_host_path: true
+    - type: bind
+      source: /Users/akif/.microsoft/usersecrets
+      target: /root/.microsoft/usersecrets
+      read_only: true
+      bind:
+        create_host_path: true
+  contact.api:
+    build:
+      context: /Users/akif/Desktop/Microservices/Microservices
+      dockerfile: Services/ContactAPI/Contact.API/Dockerfile
+    container_name: c_contact_api
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: akiftiryaki/contactapi
+    networks:
+      int_net: null
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp
+    - mode: ingress
+      target: 443
+      protocol: tcp
+    - mode: ingress
+      target: 9000
+      published: "9000"
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /Users/akif/.aspnet/https
+      target: /root/.aspnet/https
+      read_only: true
+      bind:
+        create_host_path: true
+    - type: bind
+      source: /Users/akif/.microsoft/usersecrets
+      target: /root/.microsoft/usersecrets
+      read_only: true
+      bind:
+        create_host_path: true
+  reservation.api:
+    build:
+      context: /Users/akif/Desktop/Microservices/Microservices
+      dockerfile: Services/ReservationAPI/Reservation.API/Dockerfile
+    container_name: c_reservation_api
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: akiftiryaki/reservationapi
+    networks:
+      int_net: null
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp
+    - mode: ingress
+      target: 443
+      protocol: tcp
+    - mode: ingress
+      target: 7000
+      published: "7000"
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: /Users/akif/.aspnet/https
+      target: /root/.aspnet/https
+      read_only: true
+      bind:
+        create_host_path: true
+    - type: bind
+      source: /Users/akif/.microsoft/usersecrets
+      target: /root/.microsoft/usersecrets
+      read_only: true
+      bind:
+        create_host_path: true
+networks:
+  int_net:
+    name: dockercompose2629319331148237636_int_net
+    driver: overlay
+    internal: true
+  micro_net:
+    name: dockercompose2629319331148237636_micro_net
+    driver: bridge

@@ -1,0 +1,15 @@
+/Users/akif/Desktop/Microservices/Microservices/Services/ContactAPI/Contact.API.Services/bin/Debug/netcoreapp3.1/Contact.API.Services.deps.json
+/Users/akif/Desktop/Microservices/Microservices/Services/ContactAPI/Contact.API.Services/bin/Debug/netcoreapp3.1/Contact.API.Services.dll
+/Users/akif/Desktop/Microservices/Microservices/Services/ContactAPI/Contact.API.Services/bin/Debug/netcoreapp3.1/Contact.API.Services.pdb
+/Users/akif/Desktop/Microservices/Microservices/Services/ContactAPI/Contact.API.Services/bin/Debug/netcoreapp3.1/Contact.API.Infrastructure.dll
+/Users/akif/Desktop/Microservices/Microservices/Services/ContactAPI/Contact.API.Services/bin/Debug/netcoreapp3.1/Contact.API.Models.dll
+/Users/akif/Desktop/Microservices/Microservices/Services/ContactAPI/Contact.API.Services/bin/Debug/netcoreapp3.1/Contact.API.Infrastructure.pdb
+/Users/akif/Desktop/Microservices/Microservices/Services/ContactAPI/Contact.API.Services/bin/Debug/netcoreapp3.1/Contact.API.Models.pdb
+/Users/akif/Desktop/Microservices/Microservices/Services/ContactAPI/Contact.API.Services/obj/Debug/netcoreapp3.1/Contact.API.Services.csproj.AssemblyReference.cache
+/Users/akif/Desktop/Microservices/Microservices/Services/ContactAPI/Contact.API.Services/obj/Debug/netcoreapp3.1/Contact.API.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akif/Desktop/Microservices/Microservices/Services/ContactAPI/Contact.API.Services/obj/Debug/netcoreapp3.1/Contact.API.Services.AssemblyInfoInputs.cache
+/Users/akif/Desktop/Microservices/Microservices/Services/ContactAPI/Contact.API.Services/obj/Debug/netcoreapp3.1/Contact.API.Services.AssemblyInfo.cs
+/Users/akif/Desktop/Microservices/Microservices/Services/ContactAPI/Contact.API.Services/obj/Debug/netcoreapp3.1/Contact.API.Services.csproj.CoreCompileInputs.cache
+/Users/akif/Desktop/Microservices/Microservices/Services/ContactAPI/Contact.API.Services/obj/Debug/netcoreapp3.1/Contact.API.Services.csproj.CopyComplete
+/Users/akif/Desktop/Microservices/Microservices/Services/ContactAPI/Contact.API.Services/obj/Debug/netcoreapp3.1/Contact.API.Services.dll
+/Users/akif/Desktop/Microservices/Microservices/Services/ContactAPI/Contact.API.Services/obj/Debug/netcoreapp3.1/Contact.API.Services.pdb

@@ -1,0 +1,10 @@
+/Users/akif/Desktop/Microservices/Microservices/Services/ContactAPI/Contact.API.Models/bin/Debug/netcoreapp3.1/Contact.API.Models.deps.json
+/Users/akif/Desktop/Microservices/Microservices/Services/ContactAPI/Contact.API.Models/bin/Debug/netcoreapp3.1/Contact.API.Models.dll
+/Users/akif/Desktop/Microservices/Microservices/Services/ContactAPI/Contact.API.Models/bin/Debug/netcoreapp3.1/Contact.API.Models.pdb
+/Users/akif/Desktop/Microservices/Microservices/Services/ContactAPI/Contact.API.Models/obj/Debug/netcoreapp3.1/Contact.API.Models.csproj.AssemblyReference.cache
+/Users/akif/Desktop/Microservices/Microservices/Services/ContactAPI/Contact.API.Models/obj/Debug/netcoreapp3.1/Contact.API.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akif/Desktop/Microservices/Microservices/Services/ContactAPI/Contact.API.Models/obj/Debug/netcoreapp3.1/Contact.API.Models.AssemblyInfoInputs.cache
+/Users/akif/Desktop/Microservices/Microservices/Services/ContactAPI/Contact.API.Models/obj/Debug/netcoreapp3.1/Contact.API.Models.AssemblyInfo.cs
+/Users/akif/Desktop/Microservices/Microservices/Services/ContactAPI/Contact.API.Models/obj/Debug/netcoreapp3.1/Contact.API.Models.csproj.CoreCompileInputs.cache
+/Users/akif/Desktop/Microservices/Microservices/Services/ContactAPI/Contact.API.Models/obj/Debug/netcoreapp3.1/Contact.API.Models.dll
+/Users/akif/Desktop/Microservices/Microservices/Services/ContactAPI/Contact.API.Models/obj/Debug/netcoreapp3.1/Contact.API.Models.pdb

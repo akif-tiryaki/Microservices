@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <DockerComposeProjectPath>../../../docker-compose.dcproj</DockerComposeProjectPath>
+    <UserSecretsId>2df4cf65-1b26-431e-9b73-2861ccf3f614</UserSecretsId>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <None Remove="Controllers\" />
+    <None Remove="Docker.DotNet" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Contact.API.Services\Contact.API.Services.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Docker.DotNet" Version="3.125.12" />
+  </ItemGroup>
+</Project>

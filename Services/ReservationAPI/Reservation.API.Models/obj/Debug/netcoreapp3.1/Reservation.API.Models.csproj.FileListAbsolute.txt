@@ -1,0 +1,10 @@
+/Users/akif/Desktop/Microservices/Microservices/Services/ReservationAPI/Reservation.API.Models/bin/Debug/netcoreapp3.1/Reservation.API.Models.deps.json
+/Users/akif/Desktop/Microservices/Microservices/Services/ReservationAPI/Reservation.API.Models/bin/Debug/netcoreapp3.1/Reservation.API.Models.dll
+/Users/akif/Desktop/Microservices/Microservices/Services/ReservationAPI/Reservation.API.Models/bin/Debug/netcoreapp3.1/Reservation.API.Models.pdb
+/Users/akif/Desktop/Microservices/Microservices/Services/ReservationAPI/Reservation.API.Models/obj/Debug/netcoreapp3.1/Reservation.API.Models.csproj.AssemblyReference.cache
+/Users/akif/Desktop/Microservices/Microservices/Services/ReservationAPI/Reservation.API.Models/obj/Debug/netcoreapp3.1/Reservation.API.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akif/Desktop/Microservices/Microservices/Services/ReservationAPI/Reservation.API.Models/obj/Debug/netcoreapp3.1/Reservation.API.Models.AssemblyInfoInputs.cache
+/Users/akif/Desktop/Microservices/Microservices/Services/ReservationAPI/Reservation.API.Models/obj/Debug/netcoreapp3.1/Reservation.API.Models.AssemblyInfo.cs
+/Users/akif/Desktop/Microservices/Microservices/Services/ReservationAPI/Reservation.API.Models/obj/Debug/netcoreapp3.1/Reservation.API.Models.csproj.CoreCompileInputs.cache
+/Users/akif/Desktop/Microservices/Microservices/Services/ReservationAPI/Reservation.API.Models/obj/Debug/netcoreapp3.1/Reservation.API.Models.dll
+/Users/akif/Desktop/Microservices/Microservices/Services/ReservationAPI/Reservation.API.Models/obj/Debug/netcoreapp3.1/Reservation.API.Models.pdb
