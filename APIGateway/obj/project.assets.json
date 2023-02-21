@@ -531,11 +531,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/akif/Desktop/Microservices/Microservices/APIGateway/APIGateway.csproj",
+      "projectUniqueName": "/Users/akif/Projects/Microservices/APIGateway/APIGateway.csproj",
       "projectName": "APIGateway",
-      "projectPath": "/Users/akif/Desktop/Microservices/Microservices/APIGateway/APIGateway.csproj",
+      "projectPath": "/Users/akif/Projects/Microservices/APIGateway/APIGateway.csproj",
       "packagesPath": "/Users/akif/.nuget/packages/",
-      "outputPath": "/Users/akif/Desktop/Microservices/Microservices/APIGateway/obj/",
+      "outputPath": "/Users/akif/Projects/Microservices/APIGateway/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/akif/.nuget/NuGet/NuGet.Config"

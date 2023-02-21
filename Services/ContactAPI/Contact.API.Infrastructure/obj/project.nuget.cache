@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ccuh7I2SpQ3nTH++Bcei3gmeXNFRI7QXC89mDPK4AiVHl83GX5khBzCn3FxcFDzCvBYUVJF3VWW3Bxucw4HLyw==",
+  "dgSpecHash": "9uihqdtJgZ9GXp6P+0YkjQmLvUFpA6ZrXmkjesk2wYMQlNrVRxFvTiJX1c3iOsrU64bPt0ok+9RF+FIp4Yo9Nw==",
   "success": true,
-  "projectFilePath": "/Users/akif/Desktop/Microservices/Microservices/Services/ContactAPI/Contact.API.Infrastructure/Contact.API.Infrastructure.csproj",
+  "projectFilePath": "/Users/akif/Projects/Microservices/Services/ContactAPI/Contact.API.Infrastructure/Contact.API.Infrastructure.csproj",
   "expectedPackageFiles": [
     "/Users/akif/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "/Users/akif/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"

@@ -230,11 +230,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/akif/Desktop/Microservices/Microservices/Services/ContactAPI/Contact.API/Contact.API.csproj",
+      "projectUniqueName": "/Users/akif/Projects/Microservices/Services/ContactAPI/Contact.API/Contact.API.csproj",
       "projectName": "Contact.API",
-      "projectPath": "/Users/akif/Desktop/Microservices/Microservices/Services/ContactAPI/Contact.API/Contact.API.csproj",
+      "projectPath": "/Users/akif/Projects/Microservices/Services/ContactAPI/Contact.API/Contact.API.csproj",
       "packagesPath": "/Users/akif/.nuget/packages/",
-      "outputPath": "/Users/akif/Desktop/Microservices/Microservices/Services/ContactAPI/Contact.API/obj/",
+      "outputPath": "/Users/akif/Projects/Microservices/Services/ContactAPI/Contact.API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/akif/.nuget/NuGet/NuGet.Config"
@@ -250,8 +250,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/Users/akif/Desktop/Microservices/Microservices/Services/ContactAPI/Contact.API.Services/Contact.API.Services.csproj": {
-              "projectPath": "/Users/akif/Desktop/Microservices/Microservices/Services/ContactAPI/Contact.API.Services/Contact.API.Services.csproj"
+            "/Users/akif/Projects/Microservices/Services/ContactAPI/Contact.API.Services/Contact.API.Services.csproj": {
+              "projectPath": "/Users/akif/Projects/Microservices/Services/ContactAPI/Contact.API.Services/Contact.API.Services.csproj"
             }
           }
         }

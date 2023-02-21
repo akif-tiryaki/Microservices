@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/akif/Desktop/Microservices/Microservices/Services/ReservationAPI/Reservation.API.Infrastructure/Reservation.API.Infrastructure.csproj",
+      "projectUniqueName": "/Users/akif/Projects/Microservices/Services/ReservationAPI/Reservation.API.Infrastructure/Reservation.API.Infrastructure.csproj",
       "projectName": "Reservation.API.Infrastructure",
-      "projectPath": "/Users/akif/Desktop/Microservices/Microservices/Services/ReservationAPI/Reservation.API.Infrastructure/Reservation.API.Infrastructure.csproj",
+      "projectPath": "/Users/akif/Projects/Microservices/Services/ReservationAPI/Reservation.API.Infrastructure/Reservation.API.Infrastructure.csproj",
       "packagesPath": "/Users/akif/.nuget/packages/",
-      "outputPath": "/Users/akif/Desktop/Microservices/Microservices/Services/ReservationAPI/Reservation.API.Infrastructure/obj/",
+      "outputPath": "/Users/akif/Projects/Microservices/Services/ReservationAPI/Reservation.API.Infrastructure/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/akif/.nuget/NuGet/NuGet.Config"
@@ -52,8 +52,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/Users/akif/Desktop/Microservices/Microservices/Services/ReservationAPI/Reservation.API.Models/Reservation.API.Models.csproj": {
-              "projectPath": "/Users/akif/Desktop/Microservices/Microservices/Services/ReservationAPI/Reservation.API.Models/Reservation.API.Models.csproj"
+            "/Users/akif/Projects/Microservices/Services/ReservationAPI/Reservation.API.Models/Reservation.API.Models.csproj": {
+              "projectPath": "/Users/akif/Projects/Microservices/Services/ReservationAPI/Reservation.API.Models/Reservation.API.Models.csproj"
             }
           }
         }
